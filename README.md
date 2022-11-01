@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kpgh46 - See my [LinkedIn](www.linkedin.com/in/kevin-mcpeak-a9457931)
+- 👋 Hi, I’m @kpgh46
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning NodeJS
 - 💞️ My 2022 goal is to be a professional Web Developer
