@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kpgh46
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently focused on refining backend skills
 - 💞️ My 2022 goal is to be a professional Web Developer
 - 📫 You can reach me at kevinmcpeak46@gmail.com
 
