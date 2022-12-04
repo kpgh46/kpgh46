@@ -6,6 +6,8 @@ Hello, I'm Kevin McPeak
 
 ..I believe my unique set of skills sets me apart from others in the industry.
 
+..I am currently working on MERN stack projects like creating a social meeting clone.  After, I plan to enhance my Workout Generator project by connecting it Mongo DB with user authentication.
+
 If you would like to learn more, please see my personal portfolio page or contact me at kevinmcpeak46@gmail.com
 
 
