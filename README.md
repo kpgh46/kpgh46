@@ -6,7 +6,7 @@ Hello, I'm Kevin McPeak
 
 ..I believe my unique set of skills sets me apart from others in the industry.
 
-..Currently, I am working on MERN stack projects like creating a social meeting clone.  After, I plan to enhance my Workout Generator project by connecting it Mongo DB with user authentication.
+..Currently, I am working on refining my code to use pure functions.  I plan to achieve this by utilizing Test Driven Development.  I created a Tetris app using TDD, and now plan to refactor my Workout App to use TDD
 
 If you would like to learn more, please see my personal portfolio page or contact me at kevinmcpeak46@gmail.com
 
